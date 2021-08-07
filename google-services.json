@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069517007639",
+    "project_id": "signin-expo-app",
+    "storage_bucket": "signin-expo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069517007639:android:208589440b67a572a8a552",
+        "android_client_info": {
+          "package_name": "com.trinity.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069517007639-dvcr5u1ug5pat2s3ftdaqfa4pad2p887.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmvfoDf3M15YcFVcIgwgmwLXzZa-7Pa0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069517007639-dvcr5u1ug5pat2s3ftdaqfa4pad2p887.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
